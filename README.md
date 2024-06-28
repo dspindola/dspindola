@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web community and bun's ecosystem
 - 📫 How to reach me [mailto:jun](jun@sent.com)
 - 😄 Pronouns: `NaN`
-- ⚡ Fun fact: `undefine`
+- ⚡ Fun fact: `undefined`
 
 <!---
 dspindola/dspindola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
